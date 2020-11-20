@@ -1,0 +1,5 @@
+# Excluded file list.(ADD,COPY)
+/tmp*
+*/*/tmp*
+tmp?
+!README.md
